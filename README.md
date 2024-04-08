@@ -57,3 +57,5 @@ Raw counts
 An expression heatmap for given cells and features. In this case, we are plotting the top 20 markers (or all markers if less than 20) for each cluster.
 
 ![Do Heat](https://github.com/mblinks/mblinks.github.io/blob/main/assets/DoHeat.png)
+
+---
